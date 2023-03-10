@@ -1,0 +1,20 @@
+composer:
+  last: Eberlin
+  first: Johann Ernst
+title: Benedicamus Patrem
+id: NeuE 22
+genre: offertorium
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 clno (C), timp (C–G), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-KA
+    shelfmark: Don Mus.Ms. 403
+    date: 1770
+    rism: 450012851
+    url: https://digital.blb-karlsruhe.de/3909097
+    license: CC-BY-SA 4.0
+    principal: true
+imslp:
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
