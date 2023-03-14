@@ -8,7 +8,7 @@
     \section "Benedicamus Patrem"
     \addTocEntry
     \paper { indent = 3\cm }
-    \score { %\articulate
+    \score {
       <<
         \new StaffGroup <<
           \new Staff <<
@@ -68,7 +68,7 @@
         \new FiguredBass { \BenedicamusBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 60 } % 100 – 60 – 80 – 120
     }
   }
 }
