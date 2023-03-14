@@ -5,7 +5,7 @@ BenedicamusBasso = {
     \clef bass
     \key c \major \time 4/4 \autoBeamOff \tempoBenedicamus
     R1*3
-    r2 r8 \mvTr c'\fE^\tutti c c
+    r2 r8 \mvDl c'\fE^\tutti c c
     c4 c r8 a a a %5
     a4 a r8 fis fis fis
     fis4 fis g2~

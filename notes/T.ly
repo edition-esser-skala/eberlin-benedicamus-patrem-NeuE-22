@@ -5,7 +5,7 @@ BenedicamusTenore = {
     \clef "treble_8"
     \key c \major \time 4/4 \autoBeamOff \tempoBenedicamus
     R1*3
-    r2 r8 \mvTr e\fE^\tutti e e
+    r2 r8 \mvDl e\fE^\tutti e e
     e4 e r8 e e e %5
     e4 e r8 d d d
     d4 d d2~

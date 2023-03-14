@@ -67,7 +67,7 @@ BenedicamusOrgano = {
       g''8 g a h c4 r %55
       g g8 c h a g c
     } \\ {
-      r4 r8 g, a h c d %55
+      \mvTr r4\fE-\tutti r8 g, a h c d %55
       e d c a' g f e8. e16
     } >>
     \clef "treble_8" g,8[ g a] \clef bass g, a h c d

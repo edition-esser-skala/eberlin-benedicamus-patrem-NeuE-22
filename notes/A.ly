@@ -5,7 +5,7 @@ BenedicamusAlto = {
     \clef treble
     \key c \major \time 4/4 \autoBeamOff \tempoBenedicamus
     R1*3
-    r2 r8 \mvTr g'\fE^\tutti g g
+    r2 r8 \mvDl g'\fE^\tutti g g
     g4 g r8 a a a %5
     a4 a r8 a a a
     a4 a g2~
